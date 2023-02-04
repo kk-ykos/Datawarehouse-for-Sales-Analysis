@@ -16,6 +16,3 @@ Dimensional model:
 ![image](https://user-images.githubusercontent.com/68120874/216735245-8eb12bfd-c73a-4aba-a9a4-c0bb9960755f.png)
 
 
-OLAP Cube:
-
-![image](https://user-images.githubusercontent.com/68120874/216740733-3df44ab0-fae7-447b-8af9-392bb5cb5766.png)
