@@ -1,2 +1,13 @@
 # Datawarehouse-for-Sales-Analysis
-This project is to understand and analyze the sales by monitoring costs,  discounts and selling prices. We are identifying factors that influence sales and analyze the Sales based  on different quarters and periods. We understand the sales of products based on their geographical  location.
+The objective of this project is to understand and analyze the sales by monitoring costs, discounts and selling prices. We have identified the factors that influence sales and analyze the Sales based on different quarters and periods. We understand the sales of products based on their geographical location.
+
+
+Dataflow Architecture
+![image](https://user-images.githubusercontent.com/68120874/216735230-b22fa08c-691b-4df7-950f-86d5e19a8822.png)
+
+
+
+Dimensional model
+![image](https://user-images.githubusercontent.com/68120874/216735245-8eb12bfd-c73a-4aba-a9a4-c0bb9960755f.png)
+
+
