@@ -3,11 +3,16 @@ The objective of this project is to understand and analyze the sales by monitori
 
 
 Dataflow Architecture:
+
+
+
 ![image](https://user-images.githubusercontent.com/68120874/216735230-b22fa08c-691b-4df7-950f-86d5e19a8822.png)
 
 
 
 Dimensional model:
+
+
 ![image](https://user-images.githubusercontent.com/68120874/216735245-8eb12bfd-c73a-4aba-a9a4-c0bb9960755f.png)
 
 
