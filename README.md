@@ -15,4 +15,5 @@ Dimensional model:
 
 ![image](https://user-images.githubusercontent.com/68120874/216735245-8eb12bfd-c73a-4aba-a9a4-c0bb9960755f.png)
 
-
+Analysis Report
+![image](https://github.com/kk-ykos/Datawarehouse-for-Sales-Analysis/assets/68120874/215ea28a-055b-4056-aa19-668cd691eed5)
